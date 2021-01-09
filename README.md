@@ -1,9 +1,9 @@
-# CS301 Wireless Communication
+# CS301 Embedded System and Microcomputer Principle
 
 
 
 ## Brief
-CS301 Embedded System and Microcomputer Principle course project in SUSTech 2020-Fall.
+CS301 Embedded System and Microcomputer Principle course project **Wireless Communication** in SUSTech 2020-Fall.
 
 The main content is to establish the connection communication between two embedded development boards through the 2.4G communication module nRF24L01, and input the data through COM(cluster *com*munication port) to display the communication content on the LCD screen.
 
