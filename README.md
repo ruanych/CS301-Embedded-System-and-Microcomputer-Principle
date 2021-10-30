@@ -1,6 +1,9 @@
 # CS301 Embedded System and Microcomputer Principle
 
-
+[![language](https://img.shields.io/github/languages/top/Ryyyc/CS301-Embedded-System-and-Microcomputer-Principle?color=%23330099)]()
+[![commit activity](https://img.shields.io/github/commit-activity/m/Ryyyc/CS301-Embedded-System-and-Microcomputer-Principle)](https://github.com/Ryyyc/CS301-Embedded-System-and-Microcomputer-Principle/commits/master)
+[![code size](https://img.shields.io/github/languages/code-size/Ryyyc/CS301-Embedded-System-and-Microcomputer-Principle?color=%230099CC)]()
+[![repo size](https://img.shields.io/github/repo-size/Ryyyc/CS301-Embedded-System-and-Microcomputer-Principle?color=%23CC9900)]()
 
 ## Brief
 CS301 Embedded System and Microcomputer Principle course project **Wireless Communication** in SUSTech 2020-Fall.
